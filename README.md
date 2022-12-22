@@ -8,9 +8,11 @@ Projeto To-do list refatorado utilizando classes
 
 Para treinar, eu refatorei uma lista de tarefas que eu havia feito utilizando hooks.
 
-Caso alguém queira comparar deixarei os link de ambas: 
-Hooks: 
-Classes: 
+Caso alguém queira comparar deixarei o link do repositório de ambas: 
+
+Classes:https://github.com/CostaMateus7/todolistclass 
+
+Hooks:https://github.com/CostaMateus7/lista
 
 Pontos estudados:
 - Como renderizar o componente;
@@ -20,3 +22,5 @@ Pontos estudados:
 - ComponentDidUpdate;
 - componentDidMount;
 - Propriedade Static;
+
+Para acessar a aplicação: https://CostaMateus7.github.io/todolistclass 
